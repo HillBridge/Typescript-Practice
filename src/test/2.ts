@@ -4,9 +4,9 @@ enum Color {
   blue = "blue",
   green = "h"
 }
-// console.log(Color.red)
-// console.log(Color.blue)
-// console.log(Color.green)
+console.log(Color.red)
+console.log(Color.blue)
+console.log(Color.green)
 
 
 // any 和 unknown
