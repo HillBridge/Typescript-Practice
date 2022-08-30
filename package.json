@@ -4,7 +4,7 @@
   "description": "Ts Learing",
   "main": "main.js",
   "scripts": {
-    "test": "tsc src/test/2.ts && node src/test/2.js",
+    "test": "tsc src/test/3.ts -t es5 && node src/test/3.js",
     "start": "lite-server"
   },
   "repository": {
