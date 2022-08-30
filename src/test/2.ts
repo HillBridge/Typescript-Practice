@@ -50,3 +50,5 @@ const log3 = (message: string, code: number = 23) => {
 }
 
 log3("hh")
+
+log3('hh', 44)
